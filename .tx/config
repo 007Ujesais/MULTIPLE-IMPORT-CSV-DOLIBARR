@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+lang_map = uz: uz_UZ
+
+[mymodule.mymodule]
+file_filter = langs/<lang>/mymodule.lang
+source_file = langs/fr_FR/mymodule.lang
+source_lang = fr_FR
+type = MOZILLAPROPERTIES
